@@ -2,4 +2,4 @@
 
 Start by running `/discord link` in-game
 
-![](https://github.com/bart7782/Solito-docs/blob/main/Image/discordcommand.gif)
+<img src="https://github.com/bart7782/Solito-docs/blob/main/Media/discordcommand.gif" width="40" height="40" />

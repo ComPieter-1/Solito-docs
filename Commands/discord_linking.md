@@ -2,4 +2,4 @@
 
 Start by running `/discord link` in-game
 
-![](http://i.imgur.com/4PjrCDt.mp4)
+[![discordcommand.gif](https://s6.gifyu.com/images/discordcommand.gif)](https://gifyu.com/image/1aVb)

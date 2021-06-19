@@ -13,3 +13,7 @@ Then dm the Solito bot on discord with the code it gives you in chat
 
 <img src="https://github.com/bart7782/Solito-docs/blob/main/Media/solitobot.gif" width="261" height="225" />
 <img src="https://github.com/bart7782/Solito-docs/blob/main/Media/Code.png" width="447" height="145" />
+
+If linked properly, It should give you a message like this in-game:
+
+<img src="https://github.com/bart7782/Solito-docs/blob/main/Media/Successfull_Link.png" width="545" height="42" />

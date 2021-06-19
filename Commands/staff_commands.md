@@ -1,13 +1,13 @@
-## Staff commands
+# Staff commands
 
-# Moderation
+## Moderation
 
-/kick <player> <reason>
+/kick [player] [reason]
   
-/tempmute <player> <time> <reason>
+/tempmute [player] [time] [reason]
   
-/mute <player> <reason>
+/mute [player] [reason]
   
-/tempban <player> <time> <reason>
+/tempban [player] [time] [reason]
   
-/warn <player> <reason>
+/warn [player] [reason]

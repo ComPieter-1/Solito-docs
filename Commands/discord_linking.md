@@ -2,4 +2,4 @@
 
 Start by running `/discord link` in-game
 
-![](https://i.imgur.com/4PjrCDt.mp4)
+![](http://i.imgur.com/4PjrCDt.mp4)

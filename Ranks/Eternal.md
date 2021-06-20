@@ -1,7 +1,3 @@
-## Ranks
-
-
-
 # ETERNAL
 
 - Fly (infinity)

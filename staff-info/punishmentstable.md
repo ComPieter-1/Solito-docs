@@ -7,11 +7,3 @@
 | grief      | 1w ban |
 | stealing      | 4 days ban |
 | hacking      | 2w ban |
-| Reason      | Punishment |
-| Reason      | Punishment |
-| Reason      | Punishment |
-| Reason      | Punishment |
-| Reason      | Punishment |
-| Reason      | Punishment |
-| Reason      | Punishment |
-| Reason      | Punishment |

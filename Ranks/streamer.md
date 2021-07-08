@@ -12,6 +12,10 @@
 
 - /fly -  Fly!
 
+- /map hide - Hide your location on the map
+
+- /map show - Show your location on the map
+
 
 
 

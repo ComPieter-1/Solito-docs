@@ -10,6 +10,8 @@
 
 - /v - Go into vanish
 
+- /fly -  Fly!
+
 
 
 
@@ -18,3 +20,5 @@
 ### Other perks: 
 
 - Join the staff-smp
+
+- Infinite flight
